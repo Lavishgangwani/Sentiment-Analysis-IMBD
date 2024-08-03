@@ -1,0 +1,12 @@
+gensim
+pandas
+numpy
+streamlit
+scikit-learn
+ipykernel
+xgboost
+nltk
+tqdm
+seaborn
+plotly
+matplotlib
